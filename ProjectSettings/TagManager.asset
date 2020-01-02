@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Terreno
+    uniqueID: 137816531
+    locked: 0
+  - name: Player
+    uniqueID: 808315363
+    locked: 0
